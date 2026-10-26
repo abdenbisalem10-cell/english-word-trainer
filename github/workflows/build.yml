@@ -37,3 +37,6 @@ jobs:
         name: EnglishWordTrainer-AAB
         path: English_Word_Trainer_2000_Arabic-2000/app/build/outputs/bundle/release/*.aab
 
+
+
+
